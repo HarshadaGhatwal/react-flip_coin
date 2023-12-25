@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-flip_coin/static/css/main.40f982d5.css",
+    "main.js": "/react-flip_coin/static/js/main.0251ef88.js",
+    "index.html": "/react-flip_coin/index.html",
+    "main.40f982d5.css.map": "/react-flip_coin/static/css/main.40f982d5.css.map",
+    "main.0251ef88.js.map": "/react-flip_coin/static/js/main.0251ef88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40f982d5.css",
+    "static/js/main.0251ef88.js"
+  ]
+}
